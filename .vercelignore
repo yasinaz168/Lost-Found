@@ -1,0 +1,23 @@
+# Expo
+.expo/
+.expo-shared/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Native
+ios/
+android/
+
+# Build
+dist/
+web-build/
+
+# Misc
+.DS_Store
+*.log
